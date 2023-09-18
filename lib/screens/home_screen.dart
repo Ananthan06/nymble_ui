@@ -75,7 +75,7 @@ class _MyHomePageState extends State<HomePage> {
             {
               "type":"circular_item",
               "text":"Breakfast",
-              "image":"https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+              "image":"https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
             },
             {
               "type":"circular_item",
@@ -89,7 +89,7 @@ class _MyHomePageState extends State<HomePage> {
             },  {
               "type":"circular_item",
               "text":"Breakfast",
-              "image":"https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+              "image":"https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
             },
             {
               "type":"circular_item",
@@ -103,7 +103,7 @@ class _MyHomePageState extends State<HomePage> {
             },  {
               "type":"circular_item",
               "text":"Breakfast",
-              "image":"https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+              "image":"https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
             },
             {
               "type":"circular_item",
@@ -124,7 +124,7 @@ class _MyHomePageState extends State<HomePage> {
             {
               "type":"box_item",
               "text":"American",
-              "image":"https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+              "image":"https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
             },
             {
               "type":"box_item",
